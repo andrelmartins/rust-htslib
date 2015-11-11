@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BCFError",""],["ReadError",""]],"mod":[["header",""],["record",""]],"struct":[["Reader",""],["Records",""],["Writer",""]]});
